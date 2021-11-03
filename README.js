@@ -1,4 +1,4 @@
-# class ScratchFetch {
+class ScratchFetch {
     constructor() {
     }
     
